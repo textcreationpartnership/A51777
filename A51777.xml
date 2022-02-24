@@ -1,0 +1,518 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[An appendix to the office and duty of an executor.]</title>
+            <author>Manley, Thomas, 1628-1690.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 80 KB of XML-encoded text transcribed from 36 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51777</idno>
+            <idno type="STC">Wing M442</idno>
+            <idno type="STC">ESTC R204050</idno>
+            <idno type="EEBO-CITATION">99828793</idno>
+            <idno type="PROQUEST">99828793</idno>
+            <idno type="VID">33224</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51777)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33224)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1916:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>[An appendix to the office and duty of an executor.]</title>
+                  <author>Manley, Thomas, 1628-1690.</author>
+               </titleStmt>
+               <extent>[2], 69, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>for Henry Twyford,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1676]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption on A2r. Imprint conjectured by Wing.</note>
+                  <note>Running title reads: An appendix to the office of an executor.</note>
+                  <note>Leaves disbound and inlaid on 4⁰ leaves. Original size apparently an 8⁰.</note>
+                  <note>Imperfect; filmed copy lacks title page.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wills --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:33224:1"/>
+            <head>AN APPENDIX TO THE OFFICE and DUTY OF AN EXECUTOR.</head>
+            <div n="1" type="chapter">
+               <p>
+                  <seg rend="decorInit">A</seg> Teſtament differs from a laſt Will in the naming an Executor,<note place="margin">Teſtament;</note> and it is thus defined. <hi>Teſtamen<g ref="char:EOLhyphen"/>tum eſt voluntatis noſtrae juſta ſententia de eo quod quis poſt mortem ſuam fieri voluit.</hi>
+               </p>
+               <p>If one demand of B who ſhall be his Executor, and he name <hi>D;</hi> or if <hi>B</hi> ſay, I mean to make <hi>D</hi> my Executor, yet <hi>D</hi> is not Executor, unleſs it be probable that
+<pb n="2" facs="tcp:33224:2"/>
+                  <hi>B</hi> had at that time <hi>animum teſtandi.</hi>
+               </p>
+               <p>
+                  <hi>A</hi> is compelled by fear or menace, or urged by Violence to make his Will, this is void, yet a modeſt requeſt to one to make his Will, is allowable.</p>
+               <p>If any perſon refer his Will to ano<g ref="char:EOLhyphen"/>ther to declare and name an Executor for him, and he do it, this is void.</p>
+               <p>A Codicil,<note place="margin">Codicil.</note> is like a Boat tied to a great Ship: there is no Executor named there<g ref="char:EOLhyphen"/>in, it may be written or nuncupative; made before or after the Teſtament, or by one dying inteſtate, and perhaps long before his death, and yet it may be good; for being made before a Teſtament, it will be good, unleſs it be revoked by a Teſtament, or be contrary to it.</p>
+               <p>If two Teſtaments be found, and no knowledge which was made firſt, and they differ both in matter and circum<g ref="char:EOLhyphen"/>ſtance; both ſhall be void; not ſo of a Codicil unleſs the one impugn the other.</p>
+               <p>Things given and delivered by a Te<g ref="char:EOLhyphen"/>ſtator in his life time,<note place="margin">Legacy.</note> are no Legacies.</p>
+               <p>
+                  <hi>A</hi> named <hi>B</hi> his Executor, who can<g ref="char:EOLhyphen"/>not or will not intermeddle; Admini<g ref="char:EOLhyphen"/>ſtration muſt be granted by <hi>Statute cum teſtamento annexo,</hi> which makes the Lega<g ref="char:EOLhyphen"/>cies thereby given due both by Law and
+<pb n="3" facs="tcp:33224:2"/>the cuſtom of <hi>England.</hi> But the civil Law holds the contrary to this.</p>
+               <p>
+                  <hi>A</hi> bequeaths Corn growing or Goods unto one: A Stranger will not ſuffer the Executor to perform the Will, he ſhall ſue him in the Spiritual Court. <hi>Contra</hi> if a Stranger take the Teſtator's Goods from the Executor, there he may have an Action of Treſpaſs at the Common Law.</p>
+               <p>A Teſtament dated at <hi>Cane</hi> in <hi>Norman<g ref="char:EOLhyphen"/>dy,</hi> and proved afterwards in <hi>England</hi> is good. Legacies are to be recovered in Court Chriſtian, ſo if a Termor deviſe his Crop or Goods: But of Franktenement or Inheritance, the Legatee may enter with<g ref="char:EOLhyphen"/>out further Aſſignment.</p>
+               <p>
+                  <hi>A</hi> bequeaths Goods to repair the Fa<g ref="char:EOLhyphen"/>brick of a Church, if they be detained they muſt be recovered in the Eccleſiaſti<g ref="char:EOLhyphen"/>cal Court, ſo muſt a Wardſhip and Chattels real when bequeathed, be recovered.</p>
+               <p>
+                  <hi>A</hi> charges his Executor to pay his Debts, the Creditor in reſpect of this charge may ſue in the Eccleſiaſtical Court. So if an Executor be charged to build a Grammar School, and he neg<g ref="char:EOLhyphen"/>lect it.</p>
+               <p>Among the Ancient <hi>Romans</hi> there was
+<pb n="4" facs="tcp:33224:3"/>a Will,<note place="margin">Solemn Te<g ref="char:EOLhyphen"/>ſtament.</note> called a <hi>Solemn Teſtament,</hi> which was proved by ſeven Witneſſes, and all their Seals affixed to it, or elſe it was deemed void; but now two ſufficient and credible Witneſſes ſuffice.</p>
+               <p>In a Deviſe of Lands it muſt be in the life time of the Teſtator and in writing. But of Land deviſable before the Sta<g ref="char:EOLhyphen"/>tute the Teſtament is good if it be pro<g ref="char:EOLhyphen"/>bable.</p>
+               <p>One dying inteſtate, the Widow or next of Kin ſhall have Adminiſtration: See the <hi>Stat.</hi> 21 <hi>H.</hi> 8.5. but ſee alſo 31 <hi>E.</hi> 3.11. but theſe are both altered by the late Statute made in his now Majeſtie's Reign.</p>
+               <p>Teſtaments written by others being read and allowed before the Teſtator are good, or if a Notary take brief Notes and write them in form at large, and the Teſtator die before he hear it read, yet it is good to paſs Lands and Tenements.</p>
+               <p>Lands will not paſs by a Nuncupative Will by the <hi>Stat.</hi> 32 <hi>H.</hi> 8. yet in Burgage tenure it may be the contrary.</p>
+               <p>A Teſtator writeth his Will with his own hand, or cauſeth it to be written in his preſence, and after ſhews it to wit<g ref="char:EOLhyphen"/>neſſes, and then ſealing it up, ſays, This
+<pb n="5" facs="tcp:33224:3"/>is my laſt Will; this will be a good Te<g ref="char:EOLhyphen"/>ſtament; but it is neceſſary ſuch witneſ<g ref="char:EOLhyphen"/>ſes write their names on the backſide.</p>
+               <p>A Teſtator ſays ſuch a one naming <hi>B,</hi> hath his Will in keeping, and after dies, <hi>B</hi> produceth a Will and is ſworn to it, yet he muſt prove it at leaſt <hi>communi for<g ref="char:EOLhyphen"/>mâ,</hi> or if put to it <hi>per teſtes,</hi> who can prove the hand and other circumſtances.</p>
+               <p>
+                  <note place="margin">Teſtaments Priviledged.</note>Beſides them there are Military or Pri<g ref="char:EOLhyphen"/>viledged Teſtaments, and thoſe of three ſorts. 1. Among Souldiers, they may have two and both good according to meaning, theſe Souldiers were anciently divided into three Kinds: 1. <hi>Milites ar<g ref="char:EOLhyphen"/>mati,</hi> 2. <hi>Milites Literarii,</hi> 3. <hi>Milites coeleſtes,</hi> that the <hi>Milites armati,</hi> the active Souldiers had this priviledge is not to be doubted: but the 2. <hi>Milites literarii</hi> who were Doctors of the Law, and the 3. <hi>Mi<g ref="char:EOLhyphen"/>lites coeleſtes,</hi> who were Divines were but metaphorical Souldiers, and it hath been a continued doubt whether they ought to have this Priviledge.</p>
+               <p>The ſecond ſort of Priviledged Teſta<g ref="char:EOLhyphen"/>ments is called <hi>Teſtamentum in Liberos,</hi> and in ſuch caſe where two Teſtaments are found, and the firſt is to the uſe of Children, this will not eaſily be avoided
+<pb n="6" facs="tcp:33224:4"/>by a latter Will giving Goods to ſtrang<g ref="char:EOLhyphen"/>ers, unleſs in the latter there be a ſpecial revocation, or elſe it be made <hi>in pios u<g ref="char:EOLhyphen"/>ſus,</hi> or upon ſome great diſagreement, that had of late happened between the Father and Children. But if two be found of one date, and the one favours Children, and the other hath a contrary face or deſign, that that favours the Child<g ref="char:EOLhyphen"/>ren, ſhall have the more favourable al<g ref="char:EOLhyphen"/>lowance, becauſe it carries the Eſtate to the blood, which the Law is very tender of.</p>
+               <p>The third ſort of Priviledged Wills is <hi>Ad Pias cauſas,</hi> whereby a Legacy being given to young Orphans, Widows, lame, diſeaſed, poor, needy and miſerable per<g ref="char:EOLhyphen"/>ſons, or to Hoſpitals, Churches, repair<g ref="char:EOLhyphen"/>ing Bridges, City-walls, <hi>&amp;c.</hi> Theſe pri<g ref="char:EOLhyphen"/>viledged Teſtaments may be written with any Characters, Figures, Language, <hi>&amp;c.</hi>
+               </p>
+               <p>A Teſtament <hi>ad pios uſus</hi> found cancelled, unleſs there be a poſitive proof of cancelling the ſame, ſhall be preſumed to be done unadviſedly, and ſo conſe<g ref="char:EOLhyphen"/>quently good.</p>
+               <p>Two Teſtaments are found: 1. <hi>Inter Liberos,</hi> 2. <hi>Ad pios uſus,</hi> both of one
+<pb n="7" facs="tcp:33224:4"/>date, of theſe the firſt ſhall be judged good, becauſe the Children have a firſt right, <hi>&amp; jure ſucceſſionis</hi> ſhall be ad<g ref="char:EOLhyphen"/>mitted.</p>
+            </div>
+            <div n="2" type="chapter">
+               <head>
+                  <hi>CHAP. II.</hi> What Perſons may make a Teſtament.</head>
+               <p>NOne under twenty one years of Age may deviſe Lands,<note place="margin">Children.</note> Tenements, or other Hereditaments: But of Goods a Boy at fourteen, and a Girl at twelve may diſpoſe, but not before, though <hi>ad pios uſus:</hi> nay in truth it is voidable be<g ref="char:EOLhyphen"/>ing ſo made in Minority, unleſs (if when they come to full Age) it be confirmed, for then it will be good.</p>
+               <p>
+                  <note place="margin">Mad and Lunatick</note>Mad and Lunatick perſons cannot diſ<g ref="char:EOLhyphen"/>poſe of any thing during their Madneſs and Lunacy, though <hi>ad pios uſus:</hi> but if they have <hi>lucida intervalla,</hi> it is held o<g ref="char:EOLhyphen"/>therwiſe.</p>
+               <p>
+                  <hi>A</hi> being <hi>compos mentis,</hi> makes his Will, after he becomes <hi>non compos,</hi> and during that incapacity would diſannul it, this will not avoid it, for the firſt Will ſtands good. And here note, that every man
+<pb n="8" facs="tcp:33224:5"/>and Woman is ſuppoſed to be of ſound and perfect mind and memory unleſs po<g ref="char:EOLhyphen"/>ſitive proof be made to the contrary. Words only are not a ſufficient proof of ſanity of mind or to ſet forth the reaſo<g ref="char:EOLhyphen"/>nable faculty. For a Parrot may be taught ſignificant words, yet none will a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r them to proceed from an inſtinct of reaſon, no more than they can aſſert <hi>Ba<g ref="char:EOLhyphen"/>laams</hi> Aſs a reaſonable creature, becauſe by miracle it's mouth was opened to rea<g ref="char:EOLhyphen"/>ſon with it's Maſter.</p>
+               <p>An old Man, who is ſo ſuperannuated that he has forgot his own name,<note place="margin">Old Men.</note> is held unfit to make a Will. So a Man <hi>in ex<g ref="char:EOLhyphen"/>tremis.</hi>
+               </p>
+               <p>The old Law of Slaves and Villains, was this;<note place="margin">Villains.</note> their Lands, Goods and Children gotten by themſelves, or given them by others, were all in bondage. For whatever ſuch a bondſlave getteth, it is his Lords; for if a Villain make a Will of his Lands, or Tenements, or Goods, and the Lord enter before the Will proved; the Will ſhall be void, and the Lord ſhall have them. But this Law is (though not abrogated) yet ſo long diſ<g ref="char:EOLhyphen"/>uſed, that it is of no force.</p>
+               <p>If a Man be condemned to perpetual<note place="margin">Priſoners.</note>
+                  <pb n="9" facs="tcp:33224:5"/>impriſonment upon a criminal account he cannot make a Will; But a Priſoner for Debt may, ſo it be not to defraud his Creditors.</p>
+               <p>A Woman Covert cannot deviſe Lands, Tenements,<note place="margin">Feme Co<g ref="char:EOLhyphen"/>vert.</note> or Hereditaments, neither to her Husband or any other; 1. Not to her Husband for theſe reaſons. 1. For that may be in prejudice of the Heir. 2. Albeit ſhe did of feee will, and without conſtraint, for the tye is not ap<g ref="char:EOLhyphen"/>parently taken off. 3. Although the Will were made before Marriage, for the Teſtator muſt be in as good power at the time of death as of the making the Will; 4. If the Wife make a Will during Coverture, and then ſurvive her Husband, this is ſuppoſed void, unleſs ſhe confirm it after the Husbands death; But if ſuch Will were made before Marriage by her, and ſhe ſurvive, that will be good,</p>
+               <p>She may dot deviſe Goods and Chat<g ref="char:EOLhyphen"/>tels without conſent of her Husband, but by his licence peradventure ſhe may.</p>
+               <p>In ſome few caſes a Feme Covert may make a Will without her Husbands licence, as firſt an Empreſs or Queen, ſo
+<pb n="10" facs="tcp:33224:6"/>it be not in prejudice of her Husband or his Regality. 2. When any thing is due to the Wife whereof ſhe was never poſ<g ref="char:EOLhyphen"/>ſeſſed during the coverture; neither may the Husband bequeath a choſe in action, as an Obligation, <hi>&amp;c.</hi> which he hath only in the right of his Wife, if he be not joyned with her, or the property altered after Marriage. 3. A Woman betrothed to a Man, may before eſpouſals make a Will. 4. If a Wife be Executrix to another, ſhe may diſpoſe of thoſe goods, elſe might the next of Kin have admini<g ref="char:EOLhyphen"/>ſtration <hi>de bonis non adminiſtratis</hi> of her Teſtator, for where an Executor dyes inteſtate, the Teſtator from that time is deemed to dye inteſtate.</p>
+               <p>A Wife may appoint her Husband her Executor, but ſuch Wife is reſtrained from making ſuch a Will two ways, 1. Unleſs ſhe appoint an Executor, her Will will be void. 2. If ſuch Wife have any Goods as Legatary from the Teſtator, and which ſhe receiveth as Legatary, not as Executor, they are her Husbands, and ſo not by her deviſable: alſo increaſe of goods during the coverture which the Wife has as Executrix, as Calves, Lambs, and the like, the ſame redound to the Husband and not to her.</p>
+               <p>
+                  <pb n="11" facs="tcp:33224:6"/>A Wife or other Executor and Lega<g ref="char:EOLhyphen"/>tary is deemed to accept Goods as Lega<g ref="char:EOLhyphen"/>tary, not as Executor, unleſs by Proteſta<g ref="char:EOLhyphen"/>tion or ſome other means, the contrary appear, for it is her better Title and more free; yet this is according to the rule of the civil Law, but not agreeable to the Law of the Land.</p>
+               <p>If a Husband be bound, or do volunta<g ref="char:EOLhyphen"/>rily licence the Wife to make her Will be<g ref="char:EOLhyphen"/>fore Marriage, and ſhe make two or three, the laſt is that muſt ſtand.</p>
+               <p>A deaf and dumb perſon, not knowing what a Teſtament is,<note place="margin">Deaf and Dumb.</note> cannot make a Teſtament, but if he were not deaf, <hi>a partu &amp; naturaliter,</hi> but he became after<g ref="char:EOLhyphen"/>wards deaf and dumb by accident, or otherwiſe, he may do it by ſigns, but it will be better if he can write. He that can ſpeak could once hear, <hi>Ergo,</hi> he may make a will.</p>
+               <p>Dumb and not deaf, may make a will by ſigns, ſo as the ſame be well known to witneſſes.</p>
+               <p>A blind Man,<note place="margin">Blind.</note> may make a Nuncupa<g ref="char:EOLhyphen"/>tive Will, or a Teſtament in writing, if it be read to him, and he declare he heard and underſtood it.</p>
+               <p>A perſon convicted of High Treaſon,<note place="margin">Traitor.</note>
+                  <pb n="12" facs="tcp:33224:7"/>cannot make a Will, for that he hath for<g ref="char:EOLhyphen"/>feited all his Eſtate both real and perſo<g ref="char:EOLhyphen"/>nal whatſoever. But if he obtain a Pardon, <hi>Quaere,</hi> what he may do.</p>
+               <p>Felons forfeit their lives,<note place="margin">Felons.</note> Goods and Chattels, and the profit of their Lands for a Year, Day and Waſte: and after the King hath had <hi>annum, diem &amp; vaſtum,</hi> the chief Lord of the Fee ſhall have it, except in the County of <hi>Glouceſter,</hi> where the next Heir after the Year and Day ſhall inherit; and in Gavel-kind Lands where they deſcend equally to Sons, and for default of Sons to Daughters in like manner: And there it is ſaid, <hi>The Father to the Bough, The Son to the Plough.</hi> So that Felons cannot make Teſtaments of what the Law hath made <hi>a prior</hi> diſpoſi<g ref="char:EOLhyphen"/>tion. But if a Man be indicted of Fe<g ref="char:EOLhyphen"/>lony, and dye before conviction, he may deviſe his Goods and Lands, or if upon his arraignment he ſtand mute, his Goods ſhall be confiſcate, but he may deviſe his Lands.</p>
+               <p>For a Felon attainted at the time of the Fact committed, in ſuch caſe it is to be regarded in reſpect of his Lands: But for his Goods, the time of Judge<g ref="char:EOLhyphen"/>ment muſt be reſpected; for before
+<pb n="13" facs="tcp:33224:7"/>Judgement he may give his Goods, for neither the Sheriff nor other perſon can ſeize before conviction.</p>
+               <p>A Heretick doth not forfeit his Lands unleſs he be executed,<note place="margin">Heretick.</note> nor Goods unleſs he be convicted and delivered over to Lay-mens hands, yet if he be but excom<g ref="char:EOLhyphen"/>municate, he cannot make a Will.</p>
+               <p>
+                  <hi>Apoſtatas</hi> are of three ſorts.<note place="margin">Apoſtate.</note> 1. Such who having once been Chriſtians renegue their profeſſion, and become <hi>Jews</hi> or <hi>Turks;</hi> and ſuch an Apoſtate was <hi>Julian</hi> the Emperour, who from thence had the infamous Sirname of, <hi>The Apoſtate:</hi> 2. Such as being ſubject, refuſe to obey the command of the Ordinary or Supe<g ref="char:EOLhyphen"/>riour, as our now <hi>Sectaries</hi> and <hi>Noncon<g ref="char:EOLhyphen"/>formiſts.</hi> 3. Such as have entred into Holy Orders, and afterwards throw it off, and become lay in habit or profeſſion, and theſe are all reputed as bad, if not worſe than Hereticks.</p>
+               <p>A <hi>Sodomite, qui peccatum inter maſcu<g ref="char:EOLhyphen"/>los &amp; contra naturam cum faemina,</hi>
+                  <note place="margin">Sodomite,</note> is bar<g ref="char:EOLhyphen"/>red to make a Will, although he be not convicted.</p>
+               <p>An Outlawed perſon is out of the protection of the Law,<note place="margin">Outlaw.</note> and all his Goods and Chattels are forfeited, be the cauſe of
+<pb n="14" facs="tcp:33224:8"/>Action juſt or unjuſt, <hi>Doct. and Stud. Lib.</hi> 1. <hi>Cap.</hi> 6. in fine, if one be outlawed for Felony he ſhall forfeit Goods and Lands, but in Action perſonal the contrary, if any Errour or diſcontinuance be in the ſuit or Proceſs whereby the Outlawry becomes reverſable, as where the party is beyond the Seas; where three proclama<g ref="char:EOLhyphen"/>tions are not made, whereof one in open Court, another at Quarter-Seſſions, and a third at the Church or Chappel-door where the Defendent dwelleth; or laſtly, where the party hath obtained his pardon.</p>
+               <p>One at the very point of death,<note place="margin">In extreams.</note> if he be of good memory, though you can ſcarce underſtand what he ſpeaks, yet may make his Will, and it ſhall be good.</p>
+               <p>A written Will is brought to a ſick Man, and he is asked if that be his Will, and he anſwers yea; this Will if it were written by the ſick Mans privity, or di<g ref="char:EOLhyphen"/>rections it will be good; otherwiſe it is held contrary.</p>
+               <p>Eccleſiaſtical perſons are either Regular or Secular;<note place="margin">Relligions.</note> The Regular are Monks, Friars, <hi>&amp;c.</hi> And if ſuch a Regular Clerk make his will at his entrance into Religi<g ref="char:EOLhyphen"/>on, it muſt be then alſo proved, and the
+<pb n="15" facs="tcp:33224:8"/>Executor muſt enter as if he were actu<g ref="char:EOLhyphen"/>ally dead; for he is accounted dead in Law in reſpect of his Vow, and there<g ref="char:EOLhyphen"/>fore totally diſabled to make a will af<g ref="char:EOLhyphen"/>terwards. The Secular are Biſhops, Vicars, <hi>&amp;c.</hi> and theſe may make a will, ſo as the Goods they diſpoſe thereby be not held by them in right of their Church: for they may not deviſe the Fruit of Trees growing on the glebe. Howbeit Corn growing upon the glebe belongs to him, his Executor or Admi<g ref="char:EOLhyphen"/>niſtrator, but of other Fruits, Tythes, Oblations and Emoluments, the next In<g ref="char:EOLhyphen"/>cumbent ſhall have them towards pay<g ref="char:EOLhyphen"/>ment of his firſt-fruits: and if he dye his Executor, 28 <hi>H.</hi> 8.11.</p>
+            </div>
+            <div n="3" type="chapter">
+               <pb n="16" facs="tcp:33224:9"/>
+               <head>
+                  <hi>CHAP. III.</hi> What things may paſs by Will, and how much. <hi>1.</hi> Of Lands. <hi>2.</hi> Of Goods, and Chattels: And of the tuition of Children, to whom; and how it ſhall be granted or committed.</head>
+               <p>LAnds are deviſable, either by Cuſtom or by Statute. By Cuſtom, ſuch are Gavel-kind Lands, (which are not contined only to <hi>Kent,</hi> as hath been er<g ref="char:EOLhyphen"/>roneouſly held from the Grant of <hi>William</hi> the Conquerour) And one ſeized thereof may give or ſell them at his own plea<g ref="char:EOLhyphen"/>ſure: neither are they forfeitable for Felony, according to the Adage, <hi>The Father to the Bough, The Son to the Plough.</hi> 2. Lands held in Burgage-tenure by Cuſtom deviſable in divers Cities and Burroughs. And ſuch Land may be given in Fee-ſimple, Fee-tail, for Life, or Years, ſo as the Will be enrolled before the Mayor, neither is it needful to have it written according to the form of the Statute of <hi>Hen.</hi> 8. for that the Land was
+<pb n="17" facs="tcp:33224:9"/>deviſable before that Statute, and is a kind of a Socage-tenure.</p>
+               <p>Citizens, Burgeſſes and Free. men may deviſe their Lands in Mortmain, which others who have Burgage Lands may not do, otherwiſe there is no difference. But joyntenant of Burgage-Lands can<g ref="char:EOLhyphen"/>not deviſe his part, for it will paſs by ſurvivourſhip.</p>
+               <p>The Cuſtom of deviſing Lands to Feoffees reformed by 27 <hi>H.</hi> 8. which ſee at large. As alſo the <hi>Stat.</hi> 32 <hi>H.</hi> 8. whereby Lands may be deviſed.</p>
+               <p>
+                  <hi>A.</hi> having Lands in Socage may de<g ref="char:EOLhyphen"/>viſe all except he have Lands of the King or others in Knight-ſervice, but in ſuch device there muſt be reſerved <hi>primer ſeiſin,</hi> and fines for alienations, ſuch as ſhould have been, in caſe the Land had been altered or ſold.</p>
+               <p>If one hold Lands in Socage, and other Lands in Knight-ſervice, he may deviſe all his Socage Lands, and two parts of thoſe in Knight-ſervice, reſer<g ref="char:EOLhyphen"/>ving three parts for the King or other Lords of the Knight-ſervice Lands for Wardſhip and <hi>primer ſeiſin, &amp;c.</hi> but this is in effect now out of doors.</p>
+               <p>If there be two joyntenants or more of
+<pb n="18" facs="tcp:33224:10"/>Land holden of the King, and one die, his Heir ſhall be in Wardſhip.</p>
+               <p>Lands, Tenements, Rents and other Hereditaments in poſſeſſion, reverſion or remainder may be deviſed as before.</p>
+               <p>Of Goods and Chattels all may be deviſed, yea as well things extant as things not in being at the time of the device, or during the Teſtator<hi>'s</hi> Life, as Corn annually growing in ſuch Land; all Lambs coming of ſuch a flock, depaſtu<g ref="char:EOLhyphen"/>ring in ſuch a Field next Year; but if no ſuch Corn or Lambs be; it is void.</p>
+               <p>By common Law; If <hi>A.</hi> grant <hi>B.</hi> an annuity of 10 <hi>l.</hi> to be taken out of his Coffers, and he have no Coffer, or out of his Lands in Dale, and he have none there: in both theſe caſes his per<g ref="char:EOLhyphen"/>ſon is chargeable.</p>
+               <p>By a deed of Gift made of all Goods, and Chattels, yet debts or things in action paſs not: Contrary it is of a deviſe by a Will; for if a debt, or thing in action be given to <hi>A.</hi> the Teſtator may make him Executor only to that, and <hi>A.</hi> may recover it in his own name.</p>
+               <p>If a man bequeath another mans Goods, by the Civil Law, the Heir muſt either buy them, or render ſo much in
+<pb n="19" facs="tcp:33224:10"/>value to the Legatary. But both by the Common Law, and Law Eccleſiaſtical uſed in this Realm, ſuch a deviſe is judged void.</p>
+               <p>There are ſeveral ſorts of Goods which are ſaid not to be deviſable, as 1. Such as a man hath in the right of his wife, <hi>viz.</hi> Debts due to her, or things in action, or Chattels real, as Leaſes, for after the Husbands death, they return to the wife. 2. One may not deviſe Goods which he has joyntly with another, no though he make the other joynt Execu<g ref="char:EOLhyphen"/>tor, yet he ſhall not be chargeable for thoſe Goods, but adjudged to have them as ſurvivor. 3. Neither may one bequeath thoſe things which he hath, as Adminiſtrator to another, for he ought not to convert thoſe to his own uſe, but therewith to pay the Debts and Legacies of the Deceaſed, and to diſtri<g ref="char:EOLhyphen"/>bute the reſt in <hi>pios uſus,</hi> and therefore bound to be accountable. 4. Albeit, the Executor of an Executor may adminiſter Goods of the firſt Teſtator, yet ſo may not the Executor of an Ad<g ref="char:EOLhyphen"/>miniſtrator, but there muſt be a particu<g ref="char:EOLhyphen"/>lar Adminiſtration of them granted: Alſo an Executor may appoint an Exe<g ref="char:EOLhyphen"/>cutor
+<pb n="20" facs="tcp:33224:11"/>of the firſt Teſtator<hi>'s</hi> Goods, ſo may not an Adminiſtrator. Howbeit, an Executor cannot give away the Goods of a Teſtator, no more than may an Adminiſtrator, for they are not proper<g ref="char:EOLhyphen"/>ly his, but he muſt accompt for them. 5. Goods of the Realm, ſuch are the Crown and the Jewels thereof, are not deviſable. 6. The Maſter of a Colledge, the Mayor of a City or Burrough may not deviſe things which belong to the Burrough, City, or Colledge; ſo it is alſo of an Hoſpital and Church goods; (excepting upon the glebe growing.) 7. Goods <hi>de jure,</hi> belonging to the Heir are not deviſable, as Trees growing, the Heir-loom, <hi>&amp;c.</hi>
+               </p>
+               <p>Tenant in right of his Wife, ſows Lands, and bequeaths the Corn, the Legatary ſhall have it, and not the wife, otherwiſe it is of Corn and Graſs not ſeparated.</p>
+               <p>Tenant in Tayl makes Leaſe for Life to <hi>A.</hi> and dyes, the iſſue in Tayl recover Land againſt <hi>A.</hi> being ſecond in <hi>forme<g ref="char:EOLhyphen"/>don,</hi> this is loſt.</p>
+               <p>
+                  <hi>A.</hi> hath a Daughter and dyes, his Wife great with child of a Son; the Daughter enters and ſows the Land,
+<pb n="21" facs="tcp:33224:11"/>ſhee ſhall reap, though the Son be born before reaping time; But if after the ſowing of Corn and before the Son born, the Mother recover Dower againſt the Daughter, and ground ſown be aſſigned to her in Dower, ſhe ſhall alſo have the Corn.</p>
+               <p>Windows, Tables, wainſcot, Benches, and the like,<note place="margin">Windows, &amp;c.</note> fixed or mortiſed in earth go not to the Executor, but to the Heir, for they are parcel of the Free-hold and to remove them is waſt; Alſo Furnaces and Ovens, ſet in Mortar or Stone do belong to the Heir.</p>
+               <p>Concerning the aſſigning of Tutors or Guardians,<note place="margin">Guardian.</note> and the diſpoſing of Chil<g ref="char:EOLhyphen"/>drens portions during minority. Divers Cuſtoms are in <hi>England</hi> obſerved.</p>
+               <p>A Father hath a paternal power and may appoint a Tutor or Guardian to his Child for a time, and the cuſtody of his portion.</p>
+               <p>All but the Heir and ſuch as are pre<g ref="char:EOLhyphen"/>ferred in the life time of the Parents are to have filial portions of the Father<hi>'s</hi> goods: But if there be no Teſtamentary, Tutor or Guardian, then the Ordinary may appoint the next of Kin, demand<g ref="char:EOLhyphen"/>ing the ſame, as in caſe of adminiſtration,
+<pb n="22" facs="tcp:33224:12"/>but if the Child be a Ward, the Ordina<g ref="char:EOLhyphen"/>ry may not do it. Neither can any one be a Tutor or Guardian, who may not be an Executor.</p>
+               <p>A Tutor or Guardian may be aſſigned to a Boy till 14. to a Female Child till 12. and then they may have Curators of their own chooſing.</p>
+               <p>If a Child be a Ward, the Guardian ſhall have him, and all his Lands, and offering him a convenient marriage and at reaſonable age, if they refuſe, he ſhall have the value of their Marriage, which ſhall be rated according to the value of the Land: but this is now taken away.</p>
+               <p>But in Socage Tenure, if the Land come by the Mother, the Uncle on the Father<hi>'s</hi> ſide, ſhall have the Guardianſhip, <hi>&amp; ſic è contra,</hi> and as ſuch ſhall account to the Pupil for the profits of his Land at his full age.</p>
+               <p>Of Fools and Ideot<hi>'s,</hi> the King by his Prerogative Royal, hath the tuition of the body, and the profits of the Lands; but after the Ideots death, the Land ſhall return to the next Heir.</p>
+               <p>Copy-holder Heir under 14 years of Age, ſhall have a Guardian appointed
+<pb n="23" facs="tcp:33224:12"/>him till 14. as the Mother, or next of Kin.</p>
+               <p>A Tutor may be appointed for a time, either ſimply, or upon condition, nay more than one may be appointed.</p>
+               <p>If the Teſtator ſay, I commit my Children to the tuition of <hi>A.</hi> or I leave them to his hands, or to his government; or I deſire my Wife to take care of my Children, all theſe imply the Teſtators meaning to be ſo, and they ſhall be con<g ref="char:EOLhyphen"/>firmed Tutors.</p>
+               <p>The Office of a Tutor is to provide for the Infant, faithfully to adminiſter his Goods and Chattels, and to account for all received by him: and if any take away the Pupil or his Goods, he may cite them, and make them reſtore them in the Eccleſiaſtical Court.</p>
+               <p>The Tutor may ſell <hi>bona peritura,</hi> but not Goods immoveable.</p>
+               <p>If a Teſtator Will that <hi>A.</hi> ſhall educate his Children, and have the diſpoſing, ſet<g ref="char:EOLhyphen"/>ting and letting, of his Lands, yet he may not ſell them, for the words, diſpoſe, ſet, and let, properly bear no ſuch meaning.</p>
+               <p>As to the diſpoſing of Goods, we are to obſerve,<note place="margin">Diſtribution</note> that moderate Funeral expen<g ref="char:EOLhyphen"/>ces are to be paid out of the whole, and
+<pb n="24" facs="tcp:33224:13"/>then debts, <hi>quaque ſuo ordine,</hi> but if the Executor pay Legacies, and there be not ſufficient left to pay Debts, he ſhall pay <hi>de bonis propriis,</hi> it being a waſt in him. <hi>Cro. Eliz.</hi> 646. the 5 Report <hi>Duke</hi> and <hi>Littleton</hi>'s Caſe. <hi>Cheynyos</hi> Caſe. 33 <hi>Eliz. B. R.</hi>
+               </p>
+               <p>If there be a Wife and no Child, or a Child or Children, and no Wife, the Goods ſhall be divided into two parts, and the Teſtator can but deviſe one half, but now ſee the <hi>Stat.</hi> 22 <hi>Car.</hi> 2. <hi>Cap.</hi> 11.</p>
+               <p>And if there be Wife and Children or Child, which Child is Heir, or which Children were advanced by his Father, in his life time, in ſuch caſe, the Wife ſhall have half, and the Teſtator may diſ<g ref="char:EOLhyphen"/>poſe of the other moiety. But ſee <hi>Rat<g ref="char:EOLhyphen"/>cliff</hi>'s Caſe. 3. Rep. But it is alſo held that a Child preferred ſhall have as in <hi>Hotchpot</hi> if he will caſt in his ſhare. See <hi>Fitzh. and Brook. de rationabili parte bono<g ref="char:EOLhyphen"/>rum.</hi>
+               </p>
+               <p>Although the Law leaveth all to be diſpoſed of by the Teſtator, yet in many places he is reſtrained by Cuſtom. But note, it ſeemeth he may diſſeize of Lea<g ref="char:EOLhyphen"/>ſes, eſpecially where it is cuſtomable for the Wife and Children to have a <hi>ratable</hi>
+                  <pb n="25" facs="tcp:33224:13"/>part of moveable Goods and Debts. <hi>Bro. Tit. Exec.</hi>
+               </p>
+               <p>
+                  <hi>Patrimonium patris munus,</hi> becauſe it is to prefer.</p>
+               <p>
+                  <hi>Matrimonium matris manus,</hi> becauſe ſhe is to nouriſh and breed up the Child.</p>
+               <p>If <hi>A.</hi> be ſeized of 30 Acres, and have iſſue 2 daughters, and he beſtow 10 A<g ref="char:EOLhyphen"/>cres in Frank-marriage with one of them, and dye ſeized of 20; the married Siſter may caſt up in <hi>Hotchpot,</hi> and have a new diviſion and moiety.</p>
+            </div>
+            <div n="4" type="chapter">
+               <head>
+                  <hi>CHAP. IV.</hi> Expoſition of Teſtaments.</head>
+               <p>TEſtaments ſhall be favourably ex<g ref="char:EOLhyphen"/>pounded, and according to the in<g ref="char:EOLhyphen"/>tent and meaning of the Teſtator (which intent ought to be manifeſt and not doubtful. <hi>Co.</hi> 6. <hi>Wild</hi>'s Caſe) becauſe he is ſuppoſed to be <hi>inops conſilii.</hi>
+               </p>
+               <p>Words in a Teſtament ſeeming to tend to a condition, as (if, Provided, and ſuch like) ſhall not be taken in Law for con<g ref="char:EOLhyphen"/>ditions, where the intent of the Teſtator,
+<pb n="26" facs="tcp:33224:14"/>appeareth not to defeat the whole Eſtate deviſed thereby, but for a limitation; as for example. <hi>A.</hi> ſeized of Lands in Fee, hath iſſue <hi>B,</hi> which Lands he deviſeth to <hi>C.</hi> in Tayl, the remainder to <hi>D.</hi> in Tayl, with divers other remainders, Provided, that if any of the In-taylees, bargain, or ſell the Land, or any part thereof, that from thenceforth, ſuch perſons ſelling, ſhall be utterly excluded, and the Land to remain to the next in Tayl, as if ſuch perſon had not been named in the Teſta<g ref="char:EOLhyphen"/>ment; in this caſe the expoſition ſhall be, until ſuch Perſon in the In-tayl ſhall alien, he ſhall have as before: and ſo it is a limitation, and not a condition. For if it were taken for a condition, then <hi>B.</hi> his Son ſhould enter, for he only is <hi>prius</hi> (and none but <hi>priuſes</hi> may enter for a conditi<g ref="char:EOLhyphen"/>on broken) and then all the Eſtates were determined, which were contrary to the intent of the Teſtator. But by limitation it is otherwiſe. <hi>Plow. ſo.</hi> 412. <hi>Scholaſti<g ref="char:EOLhyphen"/>ca</hi>'s Caſe.</p>
+               <p>Only ſuch Eſtate as cannot be by the rules of the Common Law conveyed by an Act executed in the life of the Teſta<g ref="char:EOLhyphen"/>tor, with advice of Counſell, ſuch Eſtate cannot be deviſed by Teſtament. As if
+<pb n="27" facs="tcp:33224:14"/>
+                  <hi>A.</hi> deviſe Land to <hi>B.</hi> in Fee, and if <hi>B.</hi> do not ſuch an Act, that <hi>C.</hi> ſhall have the ſame to him, and his Heirs, this is void: for ſuch limitation if it had been by Act executed, had been void. <hi>Et ſic de caeteris Co. Rep. Corbet</hi>'s Caſe <hi>fo.</hi> 86.</p>
+            </div>
+            <div n="5" type="chapter">
+               <head>
+                  <hi>CHAP. V.</hi> Of the Forms of Teſtaments.</head>
+               <p>THe ſubſtantial or eſſential form of a Teſtament is the naming of an Executor, without which it is no Teſta<g ref="char:EOLhyphen"/>ment: for the Executor is in the place of the Teſtator, and compellable to pay Debts ſo long as he hath Aſſets; without naming an Executor it is but a Codicil, be there never ſo many Gifts or Legacies contained therein, and Adminiſtration is to be granted, as of one dying inteſtate, unto the Wife or next of Kin.</p>
+               <p>But be it ſolemn, or unſolemn, writ<g ref="char:EOLhyphen"/>ten or <hi>nuncupative,</hi> priviledged or unpri<g ref="char:EOLhyphen"/>viledged, the naming or appointing of an Executor without more ado, makes a good Teſtament.</p>
+               <p>
+                  <pb n="28" facs="tcp:33224:15"/>An Executor may be appointed ſimply or conditionally, from a time or to a time certain, generally or particularly in the firſt, ſecond, third or fourth degree. Simple nomination, as, I make, Inſtitute or Will that, or deſire that <hi>A.</hi> be my Ex<g ref="char:EOLhyphen"/>ecutor, or <hi>A.</hi> ſhall, or let <hi>A.</hi> be my Exe<g ref="char:EOLhyphen"/>cutor, or I commit all my Goods to diſ<g ref="char:EOLhyphen"/>poſe of by <hi>A.</hi> or I will that <hi>A.</hi> diſpoſe of thoſe Goods in his poſſeſſion; in the firſt he ſhall be adjudged Executor of all; In the ſecond of ſo much as are in his poſſeſ<g ref="char:EOLhyphen"/>ſion only.</p>
+               <p>The word Executor needs not always to be expreſſed in a Will, but <hi>circumlocu<g ref="char:EOLhyphen"/>tory</hi> words will ſerve, ſo as the Teſtator<hi>'s</hi> meaning be certainly known, but when it is doubtful whether the perſon named be a general Legatary or Executor, great care muſt be taken to determine, whether a Will or not a Will.</p>
+               <p>A Teſtator makes his Will by entreaty or interrogation of another perſon, as if one demand if he will make <hi>A.</hi> Executor, and he anſwer yea, or I do, this is a good nomination, ſo as he be then purpoſed and intended to make his Will; for be the words never ſo plain, if the Teſtator were in fear, jeſt or drink, though he ſay I
+<pb n="29" facs="tcp:33224:15"/>make <hi>A.</hi> my Executor, yet it is void, be<g ref="char:EOLhyphen"/>cauſe he had not then <hi>animum teſtandi.</hi>
+               </p>
+               <p>As nomination of an Executor is pure and ſimple, being without condition, ſo of Legataries, <hi>mutatis mutandis,</hi> in all things always according to the Teſtator<hi>'s</hi> meaning: Therefore if <hi>A.</hi> deviſe to <hi>B.</hi> all his Lands and Tenements, all in poſ<g ref="char:EOLhyphen"/>ſeſſion and reverſion paſs by the word Tenements.</p>
+               <p>Land is deviſed to <hi>A.</hi> to have for ever<g ref="char:EOLhyphen"/>more, or to him and his Aſſigns, there the deviſee hath a Fee-ſimple; but in a Feoffment, ſuch words create but an E<g ref="char:EOLhyphen"/>ſtate for the Feoffee<hi>'s</hi> life.</p>
+               <p>A deviſe of Lands is made to <hi>A.</hi> thus, to give or ſell, or do with at his pleaſure, this makes a Fee-ſimple.</p>
+               <p>A deviſe of Land is made to <hi>A.</hi> and his Heirs males, this is an Eſtate Tayl, but in a Feoffment the ſame words make on<g ref="char:EOLhyphen"/>ly a Fee-ſimple, becauſe thereby it does not appear of what bodies the Heirs ſhall be begotten.</p>
+               <p>Lands are given by deed to <hi>A.</hi> and the Heirs males of his body, he hath iſſue a Daughter, who hath iſſue a Son, and dies, the Son of the Daughter ſhall not have it, but it ſhall return to the Donor.
+<pb n="30" facs="tcp:33224:16"/>But if the ſame were ſo given by a deviſe in a Will, he, <hi>viz.</hi> the Son of the Daugh<g ref="char:EOLhyphen"/>ter ſhould have it.</p>
+               <p>A deviſe made to an Infant in the Mo<g ref="char:EOLhyphen"/>thers Womb is good, but contrary of a deed Feoffment, grant or gift, for they being made to ſuch are void.</p>
+               <p>A deviſe is to <hi>A.</hi> and his Heirs Females of Land, the Deviſee hath a Daughter and Son, and dyes, in this caſe the Daugh<g ref="char:EOLhyphen"/>ter ſhall have the Land, and not the Son though he be Heir.</p>
+               <p>A deviſe of Land is to <hi>A.</hi> charging him with payments, of near the value of the profits during his Life, though there be word of Heirs, or Aſſigns, or for ever, yet this is a Fee-ſimple; But a deviſe of Land to <hi>A.</hi> in Fee, and if he dye without Heir, then to <hi>B.</hi> in Fee, this is a void re<g ref="char:EOLhyphen"/>mainder, becauſe one Fee-ſimple cannot depend upon another. So Land was de<g ref="char:EOLhyphen"/>viſed to the Prior and Covent of <hi>B.</hi> ſo as they paid to the Dean and Chapter of <hi>P.</hi> 10 <hi>l. per annum,</hi> and in default thereof, their Eſtate to ceaſe, and the Land to re<g ref="char:EOLhyphen"/>main to the Dean and Chapter, this is a void remainder, for it could not be limi<g ref="char:EOLhyphen"/>ted after an Eſtate in Fee, and the Heir, not the Dean and Chapter ſhall take ad<g ref="char:EOLhyphen"/>vantage of the condition.</p>
+               <p>
+                  <pb n="31" facs="tcp:33224:16"/>A Legatary may take his Legacy with<g ref="char:EOLhyphen"/>out delivery by the Executor; But there is no remedy to recover a Legacy by the Common Law, but only by citation be<g ref="char:EOLhyphen"/>fore the ordinary: But a Legatary poſ<g ref="char:EOLhyphen"/>ſeſt of his Legacy, at the Teſtator<hi>'s</hi> death, may retain it, if there be ſufficient to pay debts beſide.</p>
+               <p>Conditions ſome are, 1. Neceſſary. 2. Some impoſſible. 3. And ſome poſſible or indifferent.</p>
+               <p n="1">1. Neceſſary in reſpect of Fact, as if the Sun riſe. 2. Neceſſary in reſpect of Law, as a condition to make one Exe<g ref="char:EOLhyphen"/>cutor or give 100 <hi>l.</hi>
+               </p>
+               <p n="2">2. Impoſſible conditions, and theſe have four ſorts of Impediments. 1. Of Nature, as to give one 100 <hi>l.</hi> if he touch the Sky with his hands, or drink up the Sea. 2. Contrary to Law deem<g ref="char:EOLhyphen"/>ed impoſſible, as if he murder a Man, or deflower a Maid, for <hi>id poſſumus, quod de jure poſſumus.</hi> 3. Hard to be per<g ref="char:EOLhyphen"/>formed, as a baſe Subject to marry the King<hi>'s</hi> Daughter. And 4, of contrarie<g ref="char:EOLhyphen"/>ty and repugnancy.</p>
+               <p n="3">3. Poſſible conditions or indifferent, of theſe, 1. Some are caſual as to give 100 <hi>l.</hi> if the King of <hi>Spain</hi> dye this year,
+<pb n="32" facs="tcp:33224:17"/>2. Others are Arbitrary, as if one go to Church. But here note, that conditions, unlawful, impoſſible and diſhoneſt are abſolutely void.</p>
+               <p>Every condition muſt be preciſely performed, for performance in part will not ſuffice, for the whole meaning of the Teſtator therein, muſt be per<g ref="char:EOLhyphen"/>formed.</p>
+               <p>A condition that one go to Church on <hi>Eaſter</hi>-day, and he endeavours ſo to do, but he is hindred by great floods, or other lawful impediments, the condition is performed: But if in going to Church he commit an offence, and be ſtayed for it; this is not a performance of the condition, when the condition cannot be performed by the Teſtator<hi>'s</hi> default, this is no bar to the Legacy, as a Legacy is given on condition, that he bury the Teſtator<hi>'s</hi> body in St. <hi>Pe<g ref="char:EOLhyphen"/>ter</hi>'s Church in <hi>York,</hi> and he dyes ex<g ref="char:EOLhyphen"/>communicate.</p>
+               <p>Executor or Legatary under ſome poſſible condition admittable, putting in caution to perform the condition, or make reſtitution.</p>
+               <p>Condition is, that <hi>A.</hi> marry the Teſtator<hi>'s</hi> Daughter, he is ready and
+<pb n="33" facs="tcp:33224:17"/>willing, but ſhe refuſes, this is doubt<g ref="char:EOLhyphen"/>ful, for he muſt perſevere if he will have the benefit, for though it ſeem the condition be performed in Law, yet is it not performed in fact according to the Teſtator<hi>'s</hi> meaning: But it is con<g ref="char:EOLhyphen"/>trary if the Teſtator remitteth to him a Debt upon ſuch condition, and he offereth to marry her: or if he be poſ<g ref="char:EOLhyphen"/>ſeſſed of the Executorſhip, or Legacy in the mean time before ſhe repent, or if 100 <hi>l.</hi> in ſuch a cheſt, or a white horſe be given on ſuch condition, upon the firſt refuſal, the Executor or Legatary will have a right.</p>
+               <p>Condition is, he or ſhe marry ac<g ref="char:EOLhyphen"/>cording to the appointment, arbitre<g ref="char:EOLhyphen"/>ment or conſent of <hi>A.</hi> the condition is unlawful, but the Legacy is good, though the marriage be without ſuch conſent.</p>
+               <p>Condition is, that thou marry not a Widow, or this, or that particular Wo<g ref="char:EOLhyphen"/>man is good, and if thou perform it not, no Executorſhip or Legacy ſhall paſs, becauſe thou haſt liberty beſides.</p>
+               <p>A Legacy is given upon condition, that thou marry the Teſtator<hi>'s</hi> Daugh<g ref="char:EOLhyphen"/>ter, thou muſt not marry firſt another
+<pb n="34" facs="tcp:33224:18"/>Woman, and afterwards her, for it is a condition affirmative, and intended to be meant of firſt marriage, and ſo the Legacy is void. But in negative con<g ref="char:EOLhyphen"/>ditions, as if thou do not marry the Teſtator<hi>'s</hi> Daughter, here if thou marry two or three, and her at the laſt, yet the Legacy is good, for here not the firſt Act alone, but all ſubſequent Acts are regarded.</p>
+               <p>A Condition, in reſpect of place is good: As that one ſhall not marry at <hi>York;</hi> for he is at liberty to marry elſewhere.</p>
+               <p>Land is given to a Man, and the Heirs of his body, on condition, he nor his ſell by Feoffment, <hi>&amp;c.</hi> Here, if he or his Heirs ſell; the Donor or his Heirs may enter, for this is in favour of others, and herein the Common Law, and the Eccleſiaſtical agree.</p>
+               <p>Prohibition in a Will, to ſell a Cup, Ornament, Gift of a Prince, Prize got in War, <hi>&amp;c.</hi> is good, unleſs the Goods will not amount to pay Debts: or if it be ſo far from him, that he cannot have profit or uſe of it, he may ſell it, or if he be the laſt to whom it is limited.</p>
+               <p>
+                  <pb n="35" facs="tcp:33224:18"/>One by his Will giveth <hi>A.</hi> the reſi<g ref="char:EOLhyphen"/>due of his Goods, and makes him Ex<g ref="char:EOLhyphen"/>ecutor, on condition he do not ſell the ſame; <hi>A.</hi> muſt enter into Bond not to ſell, before he can be admitted Executor: which Note,</p>
+               <p>As to time when conditions are to be performed, when no certainty thereof is expreſſed; it muſt be done as ſoon, as with conveniency it may after the Teſta<g ref="char:EOLhyphen"/>tor<hi>'s</hi> Death.</p>
+               <p>
+                  <hi>A.</hi> makes <hi>B.</hi> Executor, on condition that he give 10 <hi>l.</hi> to the Poor, he may do it at any time in his life; but the Ordinary may appoint the time, and if he fail, may grant Adminiſtration. But a Legacy given on condition that he give 10 <hi>l.</hi> to the Poor, he muſt do it as ſoon as he is able after his Teſtator<hi>'s</hi> Death, or elſe he will loſe his Legacy.</p>
+               <p>There are alſo caſual Conditions, as if a Ship come from <hi>Venice,</hi> thou muſt attend, and if it come in thy Life, good: but if thou dye before, thy Exe<g ref="char:EOLhyphen"/>cutor cannot have it, though it return after thy death.</p>
+               <p>Condition is, (if ſuch a one dye with<g ref="char:EOLhyphen"/>out iſſue, this is much to be taken notice
+<pb n="36" facs="tcp:33224:19"/>of,) for a Baſtard ſhall not be deemed iſſue, though the Parents inter-marry after the birth, and ſuch are iſſue natural, not lawful, nor may they inherit. But if <hi>A.</hi> have iſſue by <hi>B.</hi> his Wife, this is law<g ref="char:EOLhyphen"/>ful, not natural; ſo if one marry a Wo<g ref="char:EOLhyphen"/>man, with child by another, albeit born the next day, yet the Husband muſt be Father; <hi>For whoſe is the Cow, his is the Calf.</hi> If a Wife cohabit with an Adul<g ref="char:EOLhyphen"/>terer, yet if it be poſſible that the Hus<g ref="char:EOLhyphen"/>band may come to her, the Husband ſhall be preſumed the Father, nay though the Wife own the Adulterer, and the Child be like him, for that might happen by the Mothers conceit, at Conception, ſo <hi>Jacob</hi>'s rods, <hi>Ethiopian</hi> picture, <hi>&amp;c.</hi> but if the Husband were not at the time of Conception, within the four Seas, or far diſtant, or impriſoned, it will be judged otherwiſe; Alſo if diſabled by Nature or old Age. In no caſe, ſuch Children ſhall inherit.</p>
+               <p>If a child be born alive, and heard cry, the Father by the courteſy of <hi>England,</hi> ſhall have the Land for his Life, other<g ref="char:EOLhyphen"/>wiſe if it were an abſolute abortion.</p>
+               <div type="part">
+                  <pb n="37" facs="tcp:33224:19"/>
+                  <head>Remedy for Creditors and Legataries, during the ſuſpence of the Condition.</head>
+                  <p>For they are due preſently; therefore it is provided by the Statute of 21 <hi>H.</hi> 8. and 32 <hi>E.</hi> 3. that Adminiſtration be granted to the Executor for ſo long time as the condition depends.</p>
+                  <p>If a Condition be delayed to be per<g ref="char:EOLhyphen"/>formed by an Executor, it being in his power, it is his fault, and he ſhall be excluded.</p>
+                  <p>An Action againſt an Adminiſtrator ſhall abate, if there be an Executor which will prove a Will, after the Adminiſtra<g ref="char:EOLhyphen"/>tion granted. The Ordinary may ap<g ref="char:EOLhyphen"/>point a time to every Executor at the petition of Creditors to prove the Will, and if he refuſe, Adminiſtration may be granted unto ſuch as have intereſt until the condition be extant; or he may grant a Letter <hi>ad tollendum bona defuncti,</hi> but upon ſuch letter an Action will lye a<g ref="char:EOLhyphen"/>gainſt the Ordinary, as it might have done againſt the Adminiſtrator, yea though ſuch one ſell <hi>bona peritura,</hi> he may be ſued as Executor in his own wrong.</p>
+                  <p>
+                     <pb n="38" facs="tcp:33224:20"/>Ten pound a year given to one by a Teſtator, till his Son attain 21 years of Age is good, till he ſhould attain, though he dye in the mean time.</p>
+                  <p>If the Executorſhip be only limited, and the time of Age not joyned to the ſubſtance, as I give to <hi>A.</hi> 100 <hi>l.</hi> and I Will the ſame be payed when he comes to 21 years of Age, and he dye in the mean time, yet the Executor or Adminiſtrator ſhall recover it.</p>
+                  <p>And Executor may be particular as of his Goods, <hi>&amp;c.</hi> in <hi>York-ſhire,</hi> or Univer<g ref="char:EOLhyphen"/>ſal as of all his Goods: the particular Executor is only chargeable ſo far as he Adminiſters, and cannot meddle with the reſt: But if one make <hi>A.</hi> an Univerſal Legatary, or give him the reſt of his Goods, and make no other Executor, he ſhall be deemed Executor, at leaſt Adminiſtration may be granted to him.</p>
+                  <p>Two are made Executors, one dieth, his Executor may not joyn with the firſt Executor in the execution of the Will: and if ſuch Executor of Executor, have any of the Teſtator<hi>'s</hi> Goods, the firſt Executor may have an Action for them, and if the ſurviving Executor dye in<g ref="char:EOLhyphen"/>teſtate,
+<pb n="39" facs="tcp:33224:20"/>yet the Executor of the Executor cannot meddle. Alſo if one Executor be a Babe, or beyond Sea, the other is admittable in the mean time.</p>
+                  <p>If all or one Executor, refuſe to un<g ref="char:EOLhyphen"/>dertake the Executorſhip, the other may ſue or be ſued: But firſt there muſt be ſummons and ſeverance: but if the refu<g ref="char:EOLhyphen"/>ſing Executor afterwards become willing, he may joyn with the Executor and be admitted, and if he releaſe a debt due to the Teſtator it is good, ſo it be releaſed before judgement.</p>
+                  <p>One releaſes a debt due to <hi>A.</hi> and af<g ref="char:EOLhyphen"/>trr takes Adminiſtration of the Goods of <hi>A.</hi> the releaſe is void, for that there was no right of Action at the time when it was executed.</p>
+                  <p>Two or more Executors, are named, all refuſe but <hi>A.</hi> and he proves the Will, and after maketh <hi>B.</hi> his Executor, and dyes, the reſt who refuſed may not joyn with <hi>B.</hi> but he may ſue, or be ſued alone, for the firſt Teſtator<hi>'s</hi> Goods, <hi>Bro. Tit. Exec. Dyer</hi> 35. <hi>fo.</hi> 160.</p>
+                  <p>Divers Executors are named, one getteth poſſeſſion of Goods, the other have no remedy againſt him for any part, for one Executor may not ſue ano<g ref="char:EOLhyphen"/>ther,
+<pb n="40" facs="tcp:33224:21"/>but in caſe the Teſtator give to one Executor the reſidue of his Goods, he may retain them or ſue any other that holds them; but if he give all his Goods to his Executors, they are to be divided and the Ordinary hath power to pre<g ref="char:EOLhyphen"/>vent fraud among them. But if one Executor dye, the ſurvivour ſhall have his part, unleſs the Teſtator appoint that the Goods ſhall be equally divided, for thoſe words (equally divided) in a Will, do make a Tenancy in common.</p>
+                  <p>Two Witneſſes void of exception, ſufficient to prove a Will: but if the Teſtator ordain that one Witneſs whom he nameth and truſteth ſhall prove the Will, and he doth it, this is good proof; But a ſolemn Teſtament muſt be proved by ſeven Witneſſes, and every one muſt ſet his Hand and Seal to it.</p>
+                  <p>Any Language, Hand, or Character is good for a Will, ſo that it may be un<g ref="char:EOLhyphen"/>derſtood, <hi>&amp; vitium Scriptoris</hi> will not hurt, for as <hi>falſa Orthographia non vitiat Chartam: Sic nec Teſtamentum.</hi>
+                  </p>
+                  <p>In Nuncupative Wills and Teſtaments it is good to avoid obſcurity and am<g ref="char:EOLhyphen"/>biguity.</p>
+               </div>
+            </div>
+            <div n="6" type="chapter">
+               <pb n="41" facs="tcp:33224:21"/>
+               <head>
+                  <hi>CHAP. VI.</hi> What Perſons may be capable of Executor<g ref="char:EOLhyphen"/>ſhip or Legacies.</head>
+               <p>A Teſtator may exclude his own Children, and make a Stranger his Executor, or Villain; if he make a Vil<g ref="char:EOLhyphen"/>lain of his own Executor, it is a <hi>manu<g ref="char:EOLhyphen"/>miſſion;</hi> but a Villain of another being named Executor, may have an Action a<g ref="char:EOLhyphen"/>gainſt his own Lord.</p>
+               <p>A Woman ſole is Executrix, ſhe mar<g ref="char:EOLhyphen"/>ries, her Husband alone may releaſe a Debt due to the Teſtator.</p>
+               <p>An Infant Executor, may releaſe a Debt due to his Teſtator, during his Mi<g ref="char:EOLhyphen"/>nority, ſo as he receive due ſatisfaction for the ſame.</p>
+               <p>If a Child be under 17 years, he muſt have a Tutor, and ſuch Tutor may ſell any of the Teſtator<hi>'s</hi> Goods, but for neceſſity only.</p>
+               <p>
+                  <pb n="42" facs="tcp:33224:22"/>A Teſtator making his Debtor Exe<g ref="char:EOLhyphen"/>cutor, the Debt is extinguiſhed if he prove the Will: Alſo making a Credi<g ref="char:EOLhyphen"/>tor Executor, when he makes an Inventory, he may detain his own Debt firſt.</p>
+               <p>
+                  <hi>A.</hi> and <hi>B.</hi> bound to <hi>C.</hi> for Money, <hi>C.</hi> makes <hi>A.</hi> Executor, by this the Bond is releaſed; <hi>A.</hi> indebted to <hi>C.</hi> the ſaid <hi>C.</hi> makes <hi>A.</hi> and <hi>F.</hi> Executors, <hi>A.</hi> dies, <hi>F.</hi> ſhall have no Action againſt the Executor of <hi>A.</hi> for that Debt: But if the Teſtator be indebted to <hi>A.</hi> and makes him and <hi>B.</hi> Executors; if <hi>A.</hi> refuſe to prove the Will, and <hi>B.</hi> prove it, <hi>A.</hi> may have Action for his Debt againſt <hi>B:</hi> ſo Debt by Teſtator is not extinguiſhed by naming a Creditor Executor, unleſs he Adminiſters: But Debtor refuſing to Adminiſter, be<g ref="char:EOLhyphen"/>ing named Executor, the Debt is ex<g ref="char:EOLhyphen"/>tinct unleſs there want Aſſets to pay Creditors.</p>
+               <p>A Colledge, City, or Univerſity, may be appointed Executor: but an <hi>Apoſtatae</hi> is incapable to take or make Ex<g ref="char:EOLhyphen"/>ecutor: So Felon attainted, and excom<g ref="char:EOLhyphen"/>municate perſons.</p>
+               <p>
+                  <pb n="43" facs="tcp:33224:22"/>Church-Wardens, are no lawful Corporation in every reſpect, but in ſome reſpects they are ſuch a Corpo<g ref="char:EOLhyphen"/>ration, as may ſue for a Legacy given to the Pariſh.</p>
+               <p>Convict Recuſant at the Death of the Teſtator, or time of Admini<g ref="char:EOLhyphen"/>ſtration granted, diſabled to be Ex<g ref="char:EOLhyphen"/>ecutor, Adminiſtrator, or Guardian in Socage or Chivalry. See the <hi>Stat.</hi> 3. <hi>Jacobi.</hi>
+               </p>
+            </div>
+            <div n="7" type="chapter">
+               <pb n="44" facs="tcp:33224:23"/>
+               <head>
+                  <hi>CHAP. VII.</hi> Of the ſeveral kinds of Executors.</head>
+               <p>THere are three ſorts of Executors. 1. From the Law, as the Biſhop, or Ordinary. 2. The ſecond is made by the Biſhop or Ordinary. 3. The third by the Teſtator himſelf.</p>
+               <p>If an Executor refuſe, or cannot prove the Will, the Ordinary may grant Admi<g ref="char:EOLhyphen"/>niſtration, <hi>cum Teſtamento annexo,</hi> and this Adminiſtrator is charged to perform that Will, and is called <hi>Executor Dati<g ref="char:EOLhyphen"/>vus,</hi> for he is the Ordinaries Deputy or Steward.</p>
+               <p>The Ordinary may call to an account, and revoke his Authority, and ſuch re<g ref="char:EOLhyphen"/>vocation may be ſecret or implyed, as Adminiſtration granted to <hi>A.</hi> and after to <hi>B.</hi> the grant of the later revoketh the firſt, as a latter Will revokes a for<g ref="char:EOLhyphen"/>mer, yet all Acts done by <hi>A.</hi> before ſuch
+<pb n="45" facs="tcp:33224:23"/>revocation are good, 27 <hi>H.</hi> 8.26. <hi>per. Fitz.</hi> 4 <hi>H.</hi> 7.14. <hi>per Tremaile. Bro. Novel</hi> Ca<g ref="char:EOLhyphen"/>ſes 330. <hi>Executor Teſtamentarius,</hi> being one ſo made by the Teſtator, may with<g ref="char:EOLhyphen"/>out Authority from the Ordinary poſſeſs himſelf of his Teſtator<hi>'s</hi> Goods and Chattels, and after probate of the Will, may commence Actions. But if he be a meer Executor, he may not convert the reſidue of the Goods to his own uſe, but be accountable for them, neither is he to have any other benefit than what is appointed by the Will, or allowed for his charges or pains by the Ordinary, and if ſuch Executor dye inteſtate, from thence<g ref="char:EOLhyphen"/>forth his Teſtator ſhall be ſaid to dye in<g ref="char:EOLhyphen"/>teſtate, and Adminiſtration <hi>de bonis non Adminiſtratis</hi> ſhall be granted.</p>
+               <p>An Executor (ſome ſay) is not com<g ref="char:EOLhyphen"/>pellable to prove the Teſtament before citation: but if he be cited and refuſe, he ſhall loſe his Legacy, and the Ordinary may grant over Adminiſtration to ano<g ref="char:EOLhyphen"/>ther, until he will accept, <hi>&amp;c.</hi> but if he hath meddled with any of the Teſtator<hi>'s</hi> Goods, he is compellable to ſtand to it.</p>
+               <p>If Adminiſtration be granted, where a Will may or can be produced, and the Executor hath not refuſed, the Executor
+<pb n="46" facs="tcp:33224:24"/>may bring an Action of Treſpaſs againſt ſuch Adminiſtrator, if he meddled. <hi>Vid. Br. Abridgement des caſes edit</hi> 1599. <hi>Tit. Adminiſt.</hi> 112. <hi>fo.</hi> 183.</p>
+               <div type="part">
+                  <head>To him that is deſirous to know, whe<g ref="char:EOLhyphen"/>ther it be better to accept, or re<g ref="char:EOLhyphen"/>fuſe Exccutorſhip it is to be known. That,</head>
+                  <p>Executor is chargeable to Creditors ſo far as the Goods do extend, but for Debts due to the Teſtator, he ſhall not be char<g ref="char:EOLhyphen"/>ged with Aſſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s, for they are things in Action, and not in Poſſeſſion, yet he muſt uſe diligence to obtain, and get them in.</p>
+                  <p>The Heir ſhall have none of the Goods or Chattels of the Deceaſed, nor ſhall the Executor have any of the Lands, Tenements, or Hereditaments, unleſs the Will appoint them to ſell Lands, for which if two or three be appointed, and ſome refuſe to prove the Will, the reſt that prove it may ſell notwithſtanding.</p>
+                  <p>If the Teſtator appoint his Executor to ſell Land, and to diſtribute the money in <hi>pios uſus,</hi> and they enter and convert the profits to their own uſe, for two or
+<pb n="47" facs="tcp:33224:24"/>three years, the Heir may enter upon them, and exclude them, for the Frank<g ref="char:EOLhyphen"/>tenement is in him; neither if one Executor dye before ſale, may the ſurvi<g ref="char:EOLhyphen"/>vour ſell, but contrary if the limitation be for payment of the Teſtator<hi>'s</hi> Debts, for then the ſurviving Executor may ſell. 39 <hi>Aſs.</hi> 17. And it ſeemeth by the iſſue in that Book that any one of the Exe<g ref="char:EOLhyphen"/>cutors may by himſelf ſell the Land without his Companions though they be alive, and notwithſtanding that they have but a power and Authority given them, which is joynt, and in moſt caſes muſt be performed according to the limitati<g ref="char:EOLhyphen"/>on, but it ſeemeth that, that is admitted for the ſpecial reſpect the Law hath to have the Debts of the Deceaſed paid. <hi>Vid. Fitz. Tit. Aſs:</hi> 336. <hi>Et. Ex<g ref="char:EOLhyphen"/>ecutors</hi> 117.</p>
+                  <p>An Executor may recover or diſtrain, for Rents, Fee-Farms, Annuities, and Ar<g ref="char:EOLhyphen"/>rearages, as his Teſtator might have done; Alſo the Husband may do the like, for rent due to his Wife ſhe being dead.</p>
+                  <p>An Executor of an Executor in all caſes may ſue for the firſt Teſtator<hi>'s</hi> Goods, and be ſued for his Debts, as the firſt Executor might: neither ſhall the
+<pb n="48" facs="tcp:33224:25"/>Goods of the firſt be put in Execution for the ſecond Teſtator<hi>'s</hi> Debt, but thoſe Goods muſt come to the ſecond Execu<g ref="char:EOLhyphen"/>tor by relation, and thereby the property of them which was before in the firſt Executor, is conveyed to his Executor.</p>
+                  <p>
+                     <hi>A.</hi> being Adminiſtrator to <hi>B.</hi> names <hi>C.</hi> his Executor and dyes, <hi>C.</hi> may not meddle with the Goods of <hi>B.</hi> but new Adminiſtration ſhall be granted to the Friends of <hi>B.</hi>
+                  </p>
+                  <p>If an Executor after due admonition given, refuſes to prove the Will, he ſhall loſe his Legacy, but contrary if he were not ſummoned to ſtand to it. Nei<g ref="char:EOLhyphen"/>ther doth a Wife loſe her thirds, nor Children their filial portions by refuſing to prove the Will.</p>
+                  <p>A Wife Executrix cannot ſue or be ſued without her Husband, but ſhe may do any extrajudicial act, as receive or releaſe Debts, or pay Legacies without her Husband: But if ſhe dye he can no more meddle: And ſuch Wife Executrix may make her Will, and name an Exe<g ref="char:EOLhyphen"/>cutor.</p>
+                  <p>If there be three or four Executors, two or one may releaſe any Debt with<g ref="char:EOLhyphen"/>out his companions, unleſs it be upon
+<pb n="49" facs="tcp:33224:25"/>Judgement: But it is not ſo with Admi<g ref="char:EOLhyphen"/>niſtrators, for they have but one Autho<g ref="char:EOLhyphen"/>rity given them by the Biſhop over the Goods, which Authority being given to many is to be executed by all of them together.</p>
+                  <p>An Executor muſt pay Debts, before Legacies, elſe if thereby ariſe a want of payment of Debts, he ſhall pay out of his own Eſtate. Here note, that of Debts, ſome are to be preferred before o<g ref="char:EOLhyphen"/>thers, <hi>Cro. Eliz.</hi> 646. as Judgement be<g ref="char:EOLhyphen"/>fore Recognizance, <hi>&amp;c.</hi> 5 <hi>Rep.</hi> 28. <hi>Har<g ref="char:EOLhyphen"/>riſon</hi>'s Caſe, <hi>Leon</hi> 3.270. <hi>Bond</hi> and <hi>Bayl</hi>'s Caſe. So ſome Legacies are to be pre<g ref="char:EOLhyphen"/>ferred. 28, 29 <hi>H.</hi> 8. <hi>Dyer</hi> 32. 4 <hi>Eliz. Dyer</hi> 280, <hi>or</hi> 208 <hi>Dyer.</hi> 7 <hi>Eliz</hi> 232.</p>
+                  <p>As to the time for proving a Will it is Arbitrary, firſt year or ſecond,<note place="margin">Time.</note> or when it ſhall pleaſe the Ordinary to ſend a citation.</p>
+                  <p>The duty of the Executor, is to prove the Will, pay the Teſtator<hi>'s</hi> Debts,<note place="margin">Office.</note> and Legacies, and make an account for the reſidue, and therefore the Inventory ought to be made before the Executor meddle with the Goods; Into which In<g ref="char:EOLhyphen"/>ventory are to be put, Goods, Chattels, Merchandizes, all Rights and Leaſes,
+<pb n="50" facs="tcp:33224:26"/>Emblements, Corn growing, (but not Graſs or Trees growing, for thoſe belong to the Heir, ſo do things affixed to the Free-hold, alſo Glaſs in Windows, nailed or not nailed, Wainſcot and the like) but all other Goods and Chattels are to be put into the Inventory, and the Or<g ref="char:EOLhyphen"/>dinary may appoint a time to bring in the Inventory. <hi>See the Stat.</hi> 22 <hi>&amp;</hi> 23 <hi>Car.</hi> 2. <hi>Cap.</hi> 11. But an Executor meddling with Goods, unleſs for Funerals, <hi>&amp;c.</hi> not having made an Inventory, is ſubject to Eccleſiaſtical cenſure, although the Acts done by him before <hi>Probate</hi> are good in Law.</p>
+                  <p>Teſtaments are to be proved before the Biſhop of the Dioceſs, except in cer<g ref="char:EOLhyphen"/>tain Seigniories or Juriſdictions, or where there are <hi>bona notabilia</hi> in divers Dio<g ref="char:EOLhyphen"/>ceſſes; and good Debts amounting to 5 <hi>l.</hi> due by one or more in ſome other Dio<g ref="char:EOLhyphen"/>ceſs or particular juriſdiction, yet with<g ref="char:EOLhyphen"/>in that Province, do make <hi>bona notabilia</hi> as well as Goods and Chattels, real or perſonal.</p>
+                  <p>If the Metropolitan pretend that a Man within any Dioceſs of his Province dye poſſeſſed of <hi>bona notabilia,</hi> where indeed he hath none, and grant Admini<g ref="char:EOLhyphen"/>ſtration,
+<pb n="51" facs="tcp:33224:26"/>therefore of the Goods, this is not abſolutely void, becauſe the Metro<g ref="char:EOLhyphen"/>politan hath Juriſdiction in all Dioceſſes within his Province, yet nevertheleſs it is voidable. But if the Ordinary of a pe<g ref="char:EOLhyphen"/>culiar Juriſdiction, grant Adminiſtration of the Goods of one dying poſſeſſed of <hi>bona notabilia,</hi> this is abſolutely void, e<g ref="char:EOLhyphen"/>ven for the Goods in his own juriſdicti<g ref="char:EOLhyphen"/>on: for the Prerogative Court ought to grant the ſame.</p>
+                  <p>A Will is to be proved two wayes, the 1. in <hi>Communi forma,</hi> and here no per<g ref="char:EOLhyphen"/>ſon is cited, but the Executor makes Oath that it is the Teſtator<hi>'s</hi> laſt Will. Or, 2. In form of Law, and this muſt be done <hi>per teſtes</hi> wherein there muſt be publication and a definitive ſentence.</p>
+                  <p>A Will proved in common form in abſence of them which have intereſt, the Executor is compellable to prove the ſame again in form of Law, and if the Witneſſes de dead, it will endanger the whole Teſtament, unleſs 10 years be paſt ſince the <hi>Probate:</hi> But being once proved in form of Law, no more to be drawn in queſtion.</p>
+                  <p>Fees due for <hi>Probate</hi> of Wills are, if the Goods be under 5 <hi>l.</hi> ſix-pence to the
+<pb n="52" facs="tcp:33224:27"/>Regiſter; if above 5 <hi>l.</hi> and under 40 <hi>l.</hi> three ſhillings ſix-pence to the Ordinary, and to the Regiſter one ſhilling. If above 40 <hi>l.</hi> to the Ordinary 2 <hi>s.</hi> 6 <hi>d.</hi> and as much to the Regiſter by 21 <hi>H.</hi> 8. For the copy of the Will and Inventory, no more than was payed to the Regiſter for <hi>Probate,</hi> or a penny for ten lines at the Regiſter<hi>'s</hi> Election: upon forfeiture of the overplus taken, and 10 <hi>l.</hi> to the King and the Informer.</p>
+                  <p>The courſe of Debts in order to pay<g ref="char:EOLhyphen"/>ment we have already ſpoken of, we ſhall only here note, that if there be di<g ref="char:EOLhyphen"/>vers Obligations, the Executor may plea<g ref="char:EOLhyphen"/>ſure which of the Creditors he pleaſeth firſt, and the other have no remedy, though Aſſets be wanting. <hi>Doctor and Stud. Lib.</hi> 2. <hi>Cap.</hi> 10.</p>
+                  <p>If two commence Suits for ſeveral Debts, he that firſt obtains Judgement ſhall firſt be paid, an Executor may plead a dilatory plea, as in abatement of the Writ, by Eſſoyn, imparlance to one, and then another commence a Suit, to whom he confeſſes a Judgement, that Judge<g ref="char:EOLhyphen"/>ment ſhall be ſatisfied firſt, though the others Suit was commenced before: But an Executor may not plead a falſe plea to
+<pb n="53" facs="tcp:33224:27"/>delay him that firſt commenced Suit. <hi>Doctor and Stud. Lib.</hi> 2. <hi>Cap.</hi> 10.</p>
+               </div>
+               <div type="part">
+                  <head>Mortuaries.</head>
+                  <p>No Mortuary is to be paid under ten marks in moveable Goods, upon forfei<g ref="char:EOLhyphen"/>ture upon <hi>ſurplus,</hi> and 40 <hi>s.</hi> to the party grieved, by 21 <hi>H.</hi> 8. neither is it payable but where accuſtomed, and due but in one place, where the party was moſt in<g ref="char:EOLhyphen"/>habiting.</p>
+                  <p>Above ten marks clear, his Debts be<g ref="char:EOLhyphen"/>ing paid, and under 30 <hi>l.</hi> ſhall pay for a Mortuary 3 <hi>s.</hi> 4 <hi>d.</hi> between 30 and 40 pound, 6 <hi>s.</hi> 8 <hi>d.</hi> above 40 <hi>l.</hi> ſhall pay 10 <hi>s.</hi> and this is to be paid before a Lega<g ref="char:EOLhyphen"/>cy without defalcation.</p>
+               </div>
+               <div type="part">
+                  <head>Account.</head>
+                  <p>It is neceſſary that an Executor make his account and procure his diſcharge by Acquittance or otherwiſe, for he is ſub<g ref="char:EOLhyphen"/>ject to be called to an Account judicially, both by Creditors and Legataries, and that within a year, or when the Ordina<g ref="char:EOLhyphen"/>ry pleaſes, wherein he muſt declare what Goods and Chattels, have come to his
+<pb n="54" facs="tcp:33224:28"/>hand, what Debts and Legacies he hath paid, in which leſſer ſums may be pro<g ref="char:EOLhyphen"/>ved by his own Oath, and greater ſums by Witneſſes: And the reſidue ought to be diſpoſed as heretofore in <hi>pios uſus,</hi> but the Executor hath uſually deteined them, upon pretence more Debts may appear. But ſee what is now to be done by the new Stat. 22, 23 <hi>Car.</hi> 2. <hi>Cap.</hi> 11.</p>
+                  <p>In this account, all Funeral expences, juſt payments, and reaſonable charges are to be allowed.</p>
+                  <p>An Executor not being reſolved to meddle as Executor, then muſt not Ad<g ref="char:EOLhyphen"/>miniſter the Goods as Executor, for then he is compellable to undertake the bur<g ref="char:EOLhyphen"/>then: in the mean time he is ſubject to all ſuits of Creditors, and cannot ſue for want of the Will being under ſeal of the Ordinary.</p>
+                  <p>If a Creditor take but ſo much of the Teſtator<hi>'s</hi> Goods as his own Debt a<g ref="char:EOLhyphen"/>mounts to, yet he is Executor in his own wrong: But to take the Teſtator<hi>'s</hi> goods to preſerve them from periſhing or to diſpoſe of part thereof for the Funerals, or to make an Inventory, makes him not Executor in his own wrong.</p>
+               </div>
+            </div>
+            <div n="8" type="chapter">
+               <pb n="55" facs="tcp:33224:28"/>
+               <head>
+                  <hi>CHAP. VIII.</hi> How Teſtaments become void.</head>
+               <p>TEſtaments become void by ſeveral means, as when they are made through fear, immoderate flattery, fraud, incertainty or imperfection, or the Teſta<g ref="char:EOLhyphen"/>tor hath not <hi>animum teſtandi.</hi> But if ſuch a Teſtament after the fear is paſt be confirmed or ratified, it will be good.</p>
+               <p>Errour in quality to avoid a Will is this, as I make my Couſin <hi>J.</hi> my Execu<g ref="char:EOLhyphen"/>tor, or becauſe thou haſt lent me 100 <hi>l.</hi> I give thee 100 <hi>l.</hi> or for that my Son is dead, thou ſhalt be my Executor, when in truth there is no Couſin <hi>J.</hi> no Money lent, nor his Son dead.</p>
+               <p>Errour in quantity is, when a Teſtator meaning to bequeath a fourth part of his Goods, it is ſet down half, or intending to give 50 <hi>l.</hi> the Writer ſetteth down
+<pb n="56" facs="tcp:33224:29"/>100 <hi>l.</hi> or <hi>è contra;</hi> or I give to <hi>A.</hi> all the Debts he or <hi>B.</hi> oweth, and he owes nothing, all theſe bequeſts will be void.</p>
+               <p>But if one give <hi>A.</hi> 10 <hi>l.</hi> which he owes him, if the Teſtator be in good me<g ref="char:EOLhyphen"/>mory at the time of the gift this is good. So if one give 10 <hi>l.</hi> being in ſuch a cheſt, and there are but 5 <hi>l.</hi> found, yet it will be good for the 5 <hi>l.</hi> But if the Teſta<g ref="char:EOLhyphen"/>tor believed 10 <hi>l.</hi> to be there, unleſs the Executor can prove that the Teſtator knew there was but 5 <hi>l.</hi> it ſhall be good for the whole 10 <hi>l.</hi>
+               </p>
+               <p>A Will may alſo be void for incertain<g ref="char:EOLhyphen"/>ty, as I make one Man of the World my Executor, unleſs there be plain proof whom the Teſtator meant, it is abſolute<g ref="char:EOLhyphen"/>ly void.</p>
+               <p>One made his Will, and named <hi>J. S.</hi> his Executor, whereas there were two or three of that name, this ſhall be void to all, unleſs the Teſtator<hi>'s</hi> meaning ap<g ref="char:EOLhyphen"/>pear to one or one more familiar or friendly with him, then he ſhall be ad<g ref="char:EOLhyphen"/>mitted; or if they be all of Kin, the near<g ref="char:EOLhyphen"/>eſt of Kin ſhall be admitted.</p>
+               <p>— If one give a Legacy to a Church, his Pariſh Church ſhall be underſtood, ſo a
+<pb n="57" facs="tcp:33224:29"/>Legacy to the Poor, ſhall be intended to the Poor of his own Pariſh, but if he have any poor Kindred, they are princi<g ref="char:EOLhyphen"/>pally to be regarded.</p>
+               <p>It hath been held that the Mother is not a Kin to the Child, and to that pur<g ref="char:EOLhyphen"/>poſe it was long argued in the Duke of <hi>Suffolk</hi>'s Caſe, 39 <hi>H.</hi> 6. <hi>fo.</hi> 31. but ſince hath been adjudged to the contrary, 3 Rep. <hi>Ratcliff</hi>'s Caſe, and 21 <hi>H.</hi> 8.5. Or if one make the next of Kin Execu<g ref="char:EOLhyphen"/>tor, the Mother ſhall be admitted before any but his own Children, <hi>viz.</hi> before either Brother or Siſter, according to the <hi>Stat.</hi> 21 <hi>H.</hi> 8. <hi>See Bro. Novel</hi>'s Caſes 5 <hi>E.</hi> 6. <hi>Num.</hi> 415.</p>
+               <p>A Teſtator gives a Horſe and hath none, yet it is a good Legacy: the con<g ref="char:EOLhyphen"/>trary hath been held by ſome of Sheep, or a gold Chain, that if there be none, the Legacy is void, but the better opinion is that it is good.</p>
+               <p>A Legacy of Lead, Money, Wheat, <hi>&amp;c.</hi> is uncertain, and ſo naught, but if it be added for building Bridges, repairing High-wayes, maintaining or relieving Poor, then ſo much as by the Ordinaries appointment ſhall be thought fit, ſhall go to perform the intent.</p>
+               <p>
+                  <pb n="58" facs="tcp:33224:30"/>
+                  <hi>Bona animi, corporis, fortunae, viz.</hi> Vir<g ref="char:EOLhyphen"/>tue, Health, Wealth, are by the civil Law termed. 1. Moral. 2. Natural. 3. Caſual. The firſt and ſecond are not in our diſpoſe, and therefore the Law takes notice of the third, <hi>viz.</hi> caſual, under which the civil Law takes in Lands, Leaſes, Obligations, Debts, and all other Goods, his Debts paid. But the Law of this Realm takes in only Houſhold-Goods, Chattels perſonal, <hi>&amp;c.</hi> But no<g ref="char:EOLhyphen"/>thing that is of the Nature of Free-hold, nor Leaſes for years, (much leſs for life) nor <hi>Choſes</hi> in Action, as Debt upon pro<g ref="char:EOLhyphen"/>miſe or Obligation.</p>
+               <p>Chattels ſignifie all Goods, moveable and immoveable, unleſs ſuch as be of the nature of Free-hold; Of Chattels ſome be real, as Leaſes for years, ſome perſonal as moveable Goods, Money, Plate, Hou<g ref="char:EOLhyphen"/>ſhold-ſtuff, <hi>&amp;c.</hi> but Hawks and Hounds are no ſuch Goods.</p>
+               <p>Goods moveable are ſuch as actively move of themſelves, or paſſively are mo<g ref="char:EOLhyphen"/>ved by others.</p>
+               <p>Immoveable Goods are ſuch as are not dependent upon the perſon, but to ſome other things, as Trees growing, Fruit on Trees, Leaſe or Rent for term of
+<pb n="59" facs="tcp:33224:30"/>years. But no Lands, Tenements, or Franktenement.</p>
+               <p>Admit four ſeveral perſons, make four ſeveral Wills, wherein the firſt gives <hi>A.</hi> all his Goods, the ſecond gives <hi>A.</hi> all his Chattels, the third gives <hi>A.</hi> all his move<g ref="char:EOLhyphen"/>able Goods, and the fourth gives to <hi>A.</hi> all his immoveable Goods. In this caſe, <hi>A.</hi> is to have the firſt Teſtator<hi>'s</hi> whole Eſtate, being in effect his Executor, Heir or Univerſal ſucceſſor: Alſo he is to have all his Debts, and pay all his Debts, and all his Money of what Coyn or Mettal ſoever. And ſo it is as to the ſecond Teſtator in all things, And if <hi>A.</hi> dye be<g ref="char:EOLhyphen"/>fore he prove ſuch Will, Adminiſtrati<g ref="char:EOLhyphen"/>on is to be granted to the next of Kin of <hi>A.</hi> not of the Teſtator: But the Teſtator giving <hi>A.</hi> all his Goods or Chattels, if he make <hi>B.</hi> his Executor, <hi>B.</hi> muſt enter to all, prove the Will, pay the Debts and deliver over the <hi>reſiduum</hi> to <hi>A.</hi> being Univerſal Legatary. But if the Teſtator have 100 <hi>l.</hi> and being in<g ref="char:EOLhyphen"/>debted 20 <hi>l.</hi> bequeaths the one half of his goods to his Wife, the whole to be be divided, between her and <hi>A.</hi> his Exe<g ref="char:EOLhyphen"/>cutor, here the Wife ſhall have 50 <hi>l.</hi> with<g ref="char:EOLhyphen"/>out defalcation, and the Executor muſt
+<pb n="60" facs="tcp:33224:31"/>pay the Debt out of the other half, which are Aſſets in his Hands, and this caſe was ſo adjudged by two chief Juſti<g ref="char:EOLhyphen"/>ces and others.</p>
+               <p>For the third Teſtator <hi>A.</hi> muſt have <hi>bona moventia &amp; mobilia,</hi> all actively and paſſively moving or moveable, as alſo Fruits growing by Induſtry, as Corn, <hi>&amp;c.</hi> but not Natural, as Graſs, <hi>&amp;c.</hi> but if Land be appointed to be ſold by Will, the Money thence ariſing ſhall not be ac<g ref="char:EOLhyphen"/>counted as any of the Teſtator's Goods or Chattels: Or if a Teſtator have bag<g ref="char:EOLhyphen"/>ged up Money, ready ſhortly to be payed for Land bought, this may not be diſ<g ref="char:EOLhyphen"/>poſed of in prejudice of the Heir. For the fourth Teſtator, by the word im<g ref="char:EOLhyphen"/>moveable-Goods, paſs all natural fruits, as Graſs growing, Fruit on Trees, Fiſh in a Pond, Pidgeons in a Dove-Coat, <hi>&amp;c.</hi>
+               </p>
+               <p>Goods moveable and immoveable, are given as a Legacy, it hath been much diſputed, if Debts and Obligations paſs, and it is agreed that they do, and alſo Rents and Arrearages thereof behind; but ſuch a Legatary of moveable and immoveable Goods cannot ſue for ſuch Rent, Arrear, or Debt in his own Name,
+<pb n="61" facs="tcp:33224:31"/>for the Executor muſt recover them, and then may he ſue the Executor in the Ec<g ref="char:EOLhyphen"/>cleſiaſtical Court for the ſame, and if the Executor refuſe to ſue the parties, the Or<g ref="char:EOLhyphen"/>dinary ſhall compel the Executor to give one or more, Letter or Letters of Attor<g ref="char:EOLhyphen"/>ney to the Legatary to ſue for the ſame in the Executor<hi>'s</hi> name, but to the uſe of the Legatary himſelf.</p>
+               <p>
+                  <hi>A.</hi> gives all his Houſholdſtuff to <hi>B.</hi> by this <hi>B.</hi> ſhall have Tables, Stools, Forms, Chairs, Carpets, Hangings, Beds, Bedding, Baſons, Ewers, Candleſticks, all ſorts of Veſſels, ſerving for Meat, Drink, being either of Earth, Wood, Glaſs, Braſs or Pewter, Pots, Pans, Spits, Kettles, and ſuch like; But Books, Wea<g ref="char:EOLhyphen"/>pons, Tools for Artificers, Cattle, Victu<g ref="char:EOLhyphen"/>als, Corn in a Barn, Carts, Plough-gear, and Veſſels fixed to the Free-hold are not ſo eſteemed.</p>
+               <p>Plate uſed in the Houſe, as Cups, Bowls, Candleſticks, <hi>&amp;c.</hi> are Houſhold<g ref="char:EOLhyphen"/>ſtuff, but ſuch as are kept only for ſhew or Ornament, being no otherwiſe uſed, ſhall not be reckoned as Houſholdſtuff, unleſs the Teſtator's meaning appear in plain words otherwiſe.</p>
+               <p>If after a Teſtator<hi>'s</hi> Death, there be
+<pb n="62" facs="tcp:33224:32"/>found two Wills, the one made in favour of his Children; the other in favour of Strangers, that to the Children ſhall be confirmed. But if one Teſtament be proved, and the Executor poſſeſſed of the Goods, it is not afterwards to be diſproved, or he diſpoſſeſſed by means of another Will of the ſame date.</p>
+               <p>There are two Teſtaments, one to Children, another <hi>ad pios uſus,</hi> both of one date, that to the Children ſhall have the priority.</p>
+               <p>A Legacy is given of all his Debts, no more will paſs than thoſe Debts then due, not ſuch as grow due after the Will made. So if a Teſtator releaſes to <hi>A.</hi> all his debts, ſuch as grow due after the releaſe made ſhall not be diſcharged. The like of Apparel, Books, Houſholdſtuff, <hi>&amp;c.</hi>
+               </p>
+               <p>But in theſe and all Caſes the mind of the Teſtator muſt be reſpected.</p>
+               <p>A Teſtament begun, though not finiſhed is good, ſo far as it is proceeded in.</p>
+               <p>A draught of a Will not acknowledged by the Teſtator is no more a Will, than a draught of an Obligation is an Obligation unſealed.</p>
+               <p>
+                  <pb n="63" facs="tcp:33224:32" rendition="simple:additions"/>A Teſtament found written, with the Teſtator<hi>'s</hi> hand in a Cheſt amongſt other Writings of account ſhall be good; if the ſame be dated and perfect.</p>
+               <p>The laſt Teſtament is beſt, and doth abrogate and annull all former, although the Executor refuſe or dye before, or after the Teſtator. But if the latter Teſtament be imperfect or the Teſta<g ref="char:EOLhyphen"/>tor compelled by fear or fraud to make it, it is void.</p>
+               <p>A Teſtament made 10 years Before death is nevertheleſs good whatever after may happen: But a Teſtament is preſu<g ref="char:EOLhyphen"/>med to be revoked, when the Teſtator and Executor become great Enemies; Alſo when the Teſtator in heat of Anger conceived againſt his Son, or ſuch as ſhould have Adminiſtration and after<g ref="char:EOLhyphen"/>wards they are reconciled.</p>
+               <p>A Teſtator after a Will made is at<g ref="char:EOLhyphen"/>tainted of Treaſon, Felony, Hereſie, or Apoſtacy, <hi>&amp;c.</hi> unleſs he obtain a pardon or be otherwiſe reſtored, the Will is naught.</p>
+               <p>If an Executor cannot, or will not prove a Will, it loſes the name of a Teſtament, and muſt be affixed to an Ad<g ref="char:EOLhyphen"/>miniſtration, yet the Legacies, are ſtill due.</p>
+               <p>
+                  <pb n="64" facs="tcp:33224:33"/>An Executor muſt be capable at three ſeveral times. 1. At the making of the Will. 2. At the death of the Teſtator. 3. At the time of <hi>Probate</hi> thereof. But in conditional Teſtaments, the Executor and Legatary being capable at the time of the condition to be performed is ſufficient.</p>
+               <div type="part">
+                  <head>Ademption of Legacies.</head>
+                  <p>A Ship was given for a Legacy, which was afterward ſo repaired that little, yet ſome of the old remained, that makes the Legacy good; ſo of a houſe repaired after a Will made: but if the old houſe be wholly pulled down, and new builded of other ſtuff afterwards, this makes the Le<g ref="char:EOLhyphen"/>gacy void, ſo if blown down or fired by chance and new built: or if the Teſtator after the Will made, ſell or give away the ſame, this takes away the Legacy.</p>
+                  <p>A Teſtator gives an Obligation to <hi>A.</hi> and after this the Obligor payes the Teſtator the Debt in ademption: but if the Teſtator conſtrain him to pay by courſe of Law, there the Legacy is ex<g ref="char:EOLhyphen"/>tinguiſh'd.</p>
+               </div>
+               <div type="part">
+                  <pb n="65" facs="tcp:33224:33"/>
+                  <head>Transferring of Legacies,</head>
+                  <p>From one to another; as a Legacy is given to <hi>A.</hi> provided if <hi>A.</hi> will not do ſuch an Act to be void to him, and <hi>B.</hi> to have it: <hi>A.</hi> dyes, yea before he can do it, here the Legacy is not transferred.</p>
+                  <p>A Teſtator gives 100 <hi>l.</hi> to <hi>A.</hi> upon condition he pay for 10 years 10 <hi>s.</hi> a year to the poor of <hi>&amp;c.</hi> and after he gives the ſame 100 <hi>l.</hi> to <hi>B.</hi> without any condi<g ref="char:EOLhyphen"/>tion, yet <hi>B.</hi> muſt perform the firſt con<g ref="char:EOLhyphen"/>dition.</p>
+                  <p>Lands are given by Will, <hi>viz.</hi> in the beginning of the Will to <hi>A.</hi> in Fee, in the latter end to <hi>B.</hi> in Fee; this is to be de<g ref="char:EOLhyphen"/>cided by the Temporal Law, whereby <hi>B.</hi> is to have it, becauſe it is the latter deviſe, <hi>&amp; ratio partis ad partem ut totius ad totiem.</hi>
+                  </p>
+                  <p>If Legatary become Enemy to the Teltator, or give him a ſecret cauſe of hatred, though unknown to the Teſtator, by which (it may be ſuppoſed) that if he had know it, he would have taken away or deſtroyed the Legacy, this will make the Legacy void.</p>
+                  <p>
+                     <pb n="66" facs="tcp:33224:34"/>If a Wife depart from her Husband without conſent, or a Legatary accuſe his Teſtator of a capital crime, or become a capital enemy to the Teſtator's Brother, or if the Legatary neglected to help him in ſickneſs through want whereof the Teſtator periſhed, or grievouſly defamed or ſlandered the Teſtator, any of theſe will cauſe him to loſe his Legacy.</p>
+                  <p>A Legacy of 100 <hi>l.</hi> is given to <hi>A.</hi> to be paid him at <hi>Eaſter,</hi> 1675. <hi>A.</hi> dyes before <hi>Eaſter,</hi> yet his Executor or Admi<g ref="char:EOLhyphen"/>niſtrator ſhall recover, becauſe it was due at the death of the Teſtator. But if 100 <hi>l.</hi> be given to <hi>A.</hi> when ſhe ſhall be married, and ſhe dye before marriage, the Legacy is loſt. But if it be given for and towards her marriage, and ſhe dye before, yet her Executor or Adminiſtrator ſhall recover it.</p>
+                  <p>Debt is brought againſt the Ordinary, who, pending the Writ, commits Admini<g ref="char:EOLhyphen"/>ſtration to <hi>J. S.</hi> the firſt Writ ſhall abate, becauſe the Ordinary is compellable to grant the Adminiſtration by the <hi>Stat. Bro. Tit. Adminiſt.</hi> 39.31 <hi>E.</hi> 3. <hi>cap.</hi> 11. <hi>Raſt. Adminiſtrators.</hi> 1. <hi>and</hi> 21 <hi>H.</hi> 8. <hi>cap.</hi> 5. <hi>Raſt. Probate of Teſtam.</hi> 3.</p>
+                  <p>
+                     <pb n="67" facs="tcp:33224:34"/>Where the Ordinary commits Admi<g ref="char:EOLhyphen"/>niſtration, he may revoke it and grant it to another (but all acts done by the firſt Adminiſtrator ſhall be good) and ſo it was held in the caſe between <hi>Brown</hi> and <hi>Shelton</hi> for the Goods of <hi>Rawlins,</hi> where the Adminiſtration was committed to <hi>Brown</hi> and revoked, and committed to <hi>Shelton,</hi> becauſe it was not an intereſt, but a power or authority only; which may be revoked: but the contrary is held of an intereſt certain. <hi>Bro. Adminiſtrator.</hi> 33. <hi>in fine.</hi>
+                  </p>
+                  <p>If an Executor plead fully Admini<g ref="char:EOLhyphen"/>ſtred in an Action of Debt, and give in Evidence, payment of Legacies: The Plaintiff in the Action of Debt, may demurr in Law thereupon, becauſe ſuch Adminiſtration is not allowable, in Law before Debts are paid. <hi>Bro. Tit. Aſſets inter maines</hi> 10.</p>
+                  <p>An Executor before <hi>Probate</hi> makes his Executor and dyes, his Executor ſhall have Adminiſtration, 3 <hi>Eliz. Dyer</hi> 372. <hi>Iſted</hi>'s Caſe.</p>
+                  <p>Where an Executor hath the <hi>reſiduum</hi> give him, there Adminiſtration ſhall be granted to his Executor, but where the <hi>reſiduum</hi> is not ſo given, the
+<pb n="68" facs="tcp:33224:35"/>next of Kin ſhall have it. <hi>Li<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>le<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>on</hi>'s Caſe. <hi>
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>th. Report.</hi>
+                  </p>
+                  <p>I ſhall only add what hath very Learnedly been held by a moſt Wor<g ref="char:EOLhyphen"/>thy and Honourable Perſon; and of profound reading in the Law, concern<g ref="char:EOLhyphen"/>ing the Eccleſiaſtical Court, <hi>viz.</hi> That it had not Original Juriſdiction, and that what Juriſdiction the Church claims, was given to it by the King<g ref="char:punc">▪</g> and that is proved by four principal reaſons.</p>
+                  <p n="1">1. That the Ordinary had not any power to diſpoſe <hi>bona peritura.</hi> 9 <hi>Elizab. Dyer</hi> 255. 5 <hi>Rep. Needham</hi>'s Caſe.</p>
+                  <p n="2">2. If a Debt were due to the Teſta<g ref="char:EOLhyphen"/>tor or inteſtate, the Ordinary had not power to recover it, nor could he commit it. <hi>Co.</hi> 2. <hi>Inſt.</hi> 398. <hi>F. N. B. fo.</hi> 91, 92.</p>
+                  <p n="3">3. It is a Lay thing, and ſome at this day have power to diſpoſe, who are meerly Lay. <hi>Co.</hi> 5.16. 5 <hi>Rep. fo.</hi> 65. <hi>B.</hi>
+                  </p>
+                  <p n="4">4. For the manner of Tryal, it muſt be in the Temporal Court. 13 <hi>Eliz. Dyer</hi> 294.</p>
+                  <p>
+                     <pb n="69" facs="tcp:33224:35"/>Much more might be ſaid in this point, which for the greateſt part being mentioned in the fore-going Book. We will here ſet up at preſent our reſt.</p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:33224:36"/>
+            <pb facs="tcp:33224:36"/>
+         </div>
+      </body>
+   </text>
+</TEI>
